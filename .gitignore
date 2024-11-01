@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.db
+
+# Environment and Configuration
+.env
+key.txt
+
+# Development Tools
+.idea/
+.vscode/
+.DS_Store
+
+# Project Dependencies
+frontend/node_modules/
+
+# Data and Storage
+ai/data/
+backend/uploads
+dump.rdb
+chroma.log
