@@ -17,7 +17,7 @@ This repository contains the code for basic RAG system.
   - Users can interact with the RAG chatbot
 
 ### Diagram
-![Diagram](assets/RAG.png)
+![Diagram](https://github.com/user-attachments/assets/2abd69a3-87e4-43f7-9ce8-ed790763e78d)
 
 ### Demo
 
